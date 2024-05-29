@@ -67,4 +67,4 @@ jobs:
           dataFactoryName: adfdemodemodemo
           armTemplateFile: ARMTemplateForFactory.json
           armTemplateParametersFile: ARMTemplateParametersForFactory.json
-          additionalParameters: adfdemodemodemo
+          #additionalParameters: adfdemodemodemo
